@@ -1,9 +1,9 @@
 
-<h1 style="text-align:left;">MUHAMMAD TAHIR</h1>
+<h1 style="text-align:center; margin-bottom:4px;">MUHAMMAD TAHIR</h1>
 
-<p style="text-align:left; margin-top:-8px; font-size:18px;">Backend Software Engineer</p>
+<p style="text-align:center; margin-top:4px; font-size:18px;">Backend Software Engineer</p>
 
-<p style="text-align:left;">
+<p style="text-align:center;">
   <a href="https://www.linkedin.com/in/muhammadtahir32" title="LinkedIn" target="_blank" rel="noopener noreferrer">
     <img src="./assets/icons/linkedin.svg" alt="LinkedIn" width="44" height="44" style="border-radius:50%; background:#ffffff; padding:6px; border:3px solid #0A66C2;" />
   </a>
@@ -15,17 +15,19 @@
   </a>
 </p>
 
+<div style="max-width:900px; margin:18px auto; text-align:center;">
+
 A backend-focused Software Engineer from Mehran University of Engineering & Technology (MUET) specializing in building reliable, secure Java-based server-side systems using Spring Boot, RESTful APIs, Spring Security, Spring Data JPA, and JDBC/MySQL. I design layered architectures with clear separation of concerns, prioritize data integrity and security, and enjoy turning complex backend requirements into maintainable, well-tested solutions.
 
 ---
 
-## Technical Skills
+<h2 style="text-align:center">Technical Skills</h2>
 
-Below are quick visual badges for my core languages, frameworks, databases, tools and core concepts. Icons are circular and sized for high-DPI displays.
+<p style="text-align:center">Below are quick visual badges for my core languages, frameworks, databases, tools and core concepts. Icons are circular and sized for high-DPI displays.</p>
 
 <div>
   <!-- Languages -->
-  <div style="display:flex; align-items:center; gap:12px; flex-wrap:wrap;">
+  <div style="display:flex; justify-content:center; align-items:center; gap:12px; flex-wrap:wrap;">
     <h3 style="margin:0; font-size:20px;">Languages</h3>
     <div>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java" width="40" height="40" style="border-radius:50%; margin:6px;" />
@@ -38,7 +40,7 @@ Below are quick visual badges for my core languages, frameworks, databases, tool
   </div>
 
   <!-- Frameworks & Libraries -->
-  <div style="display:flex; align-items:center; gap:12px; flex-wrap:wrap;">
+  <div style="display:flex; justify-content:center; align-items:center; gap:12px; flex-wrap:wrap;">
     <h3 style="margin:0; font-size:20px;">Frameworks & Libraries</h3>
     <div>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" title="Spring / Spring Boot" width="40" height="40" style="border-radius:50%; margin:6px;" />
@@ -49,7 +51,7 @@ Below are quick visual badges for my core languages, frameworks, databases, tool
   </div>
 
   <!-- Databases & Data -->
-  <div style="display:flex; align-items:center; gap:12px; flex-wrap:wrap;">
+  <div style="display:flex; justify-content:center; align-items:center; gap:12px; flex-wrap:wrap;">
     <h3 style="margin:0; font-size:20px;">Databases & Data</h3>
     <div>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="40" height="40" style="border-radius:50%; margin:6px;" />
@@ -59,7 +61,7 @@ Below are quick visual badges for my core languages, frameworks, databases, tool
   </div>
 
   <!-- Tools & Platforms -->
-  <div style="display:flex; align-items:center; gap:12px; flex-wrap:wrap;">
+  <div style="display:flex; justify-content:center; align-items:center; gap:12px; flex-wrap:wrap;">
     <h3 style="margin:0; font-size:20px;">Tools & Platforms</h3>
     <div>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" width="40" height="40" style="border-radius:50%; margin:6px;" />
@@ -75,7 +77,7 @@ Below are quick visual badges for my core languages, frameworks, databases, tool
   </div>
 
   <!-- Concepts -->
-  <div style="display:flex; align-items:center; gap:12px; flex-wrap:wrap;">
+  <div style="display:flex; justify-content:center; align-items:center; gap:12px; flex-wrap:wrap;">
     <h3 style="margin:0; font-size:20px;">Concepts</h3>
     <div>
       <img src="./assets/icons/oop.svg" alt="OOP" title="OOP" width="40" height="40" style="border-radius:50%; margin:6px;" />
@@ -88,3 +90,6 @@ Below are quick visual badges for my core languages, frameworks, databases, tool
   </div>
 </div>
 
+
+
+</div>
