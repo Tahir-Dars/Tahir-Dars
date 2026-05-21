@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+  <defs>
+    <style>
+      .bg { fill: #e8f1ff; }
+      .circle { fill: #0052cc; }
+      .text { font-family: Arial, Helvetica, sans-serif; font-size:56px; fill: #ffffff; font-weight:700; }
+    </style>
+  </defs>
+  <rect width="128" height="128" rx="24" class="bg"/>
+  <circle cx="64" cy="64" r="52" class="circle" />
+  <text x="64" y="80" text-anchor="middle" class="text">H2</text>
+</svg>

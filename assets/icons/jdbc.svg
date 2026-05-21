@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+  <defs>
+    <style>
+      .bg { fill: #f0f7ed; }
+      .circle { fill: #2b9348; }
+      .text { font-family: Arial, Helvetica, sans-serif; font-size:36px; fill: #ffffff; font-weight:700; }
+      .sub { font-size:14px; fill:#ffffff; }
+    </style>
+  </defs>
+  <rect width="128" height="128" rx="24" class="bg"/>
+  <circle cx="64" cy="54" r="44" class="circle" />
+  <text x="64" y="60" text-anchor="middle" class="text">JDBC</text>
+  <text x="64" y="86" text-anchor="middle" class="sub">SQL</text>
+</svg>
