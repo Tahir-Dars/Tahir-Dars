@@ -1,95 +1,205 @@
+<div align="center">
 
-<h1 style="text-align:center; margin-bottom:4px;">MUHAMMAD TAHIR</h1>
+```text
+███╗   ███╗██╗   ██╗██╗  ██╗ █████╗ ███╗   ███╗███╗   ███╗ █████╗ ██████╗     ████████╗ █████╗ ██╗  ██╗██╗██████╗
+████╗ ████║██║   ██║██║  ██║██╔══██╗████╗ ████║████╗ ████║██╔══██╗██╔══██╗    ╚══██╔══╝██╔══██╗██║  ██║██║██╔══██╗
+██╔████╔██║██║   ██║███████║███████║██╔████╔██║██╔████╔██║███████║██║  ██║       ██║   ███████║███████║██║██████╔╝
+██║╚██╔╝██║██║   ██║██╔══██║██╔══██║██║╚██╔╝██║██║╚██╔╝██║██╔══██║██║  ██║       ██║   ██╔══██║██╔══██║██║██╔══██╗
+██║ ╚═╝ ██║╚██████╔╝██║  ██║██║  ██║██║ ╚═╝ ██║██║ ╚═╝ ██║██║  ██║██████╔╝       ██║   ██║  ██║██║  ██║██║██║  ██║
+╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═════╝        ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝
+```
 
-<p style="text-align:center; margin-top:4px; font-size:18px;">Backend Software Engineer</p>
+### ⟨ Muhammad Tahir &nbsp;‖&nbsp; Backend Engineer &nbsp;‖&nbsp; Programmer &nbsp;‖&nbsp; Spring Boot Developer ⟩
 
-<p style="text-align:center;">
-  <a href="https://www.linkedin.com/in/muhammadtahir32" title="LinkedIn" target="_blank" rel="noopener noreferrer">
-    <img src="./assets/icons/linkedin.svg" alt="LinkedIn" width="44" height="44" style="border-radius:50%; background:#ffffff; padding:6px; border:3px solid #0A66C2;" />
-  </a>
-  <a href="mailto:mtahirdars32@gmail.com" title="Email" target="_blank" rel="noopener noreferrer">
-    <img src="./assets/icons/gmail.svg" alt="Email" width="44" height="44" style="border-radius:50%; background:#ffffff; padding:6px; border:3px solid #D93025;" />
-  </a>
-  <a href="https://github.com/Tahir-Dars" title="GitHub" target="_blank" rel="noopener noreferrer">
-    <img src="./assets/icons/github.svg" alt="GitHub" width="44" height="44" style="border-radius:50%; background:#ffffff; padding:6px; border:3px solid #181717;" />
-  </a>
-</p>
+<br/>
 
-<div style="max-width:900px; margin:18px auto; text-align:center;">
+<a href="https://github.com/Tahir-Dars" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" width="58" height="58" alt="GitHub"/>
+</a>
+&nbsp;&nbsp;&nbsp;
 
-A backend-focused Software Engineer from Mehran University of Engineering & Technology (MUET) specializing in building reliable, secure Java-based server-side systems using Spring Boot, RESTful APIs, Spring Security, Spring Data JPA, and JDBC/MySQL. I design layered architectures with clear separation of concerns, prioritize data integrity and security, and enjoy turning complex backend requirements into maintainable, well-tested solutions.
+<a href="https://www.linkedin.com/in/muhammadtahir32" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="58" height="58" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:mtahirdars32@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail" width="58" height="58" alt="Gmail"/>
+</a>
+
+<br/><br/>
+</div>
 
 ---
 
-<h2 style="text-align:center">Technical Skills</h2>
+# `$ open ./Muhammad-Tahir.log`
 
-<p style="text-align:center">Below are quick visual badges for my core languages, frameworks, databases, tools and core concepts. Icons are circular and sized for high-DPI displays.</p>
+> *Most engineers write code. A few architect systems. Fewer still care about both.*
 
-<div>
-  <!-- Languages -->
-  <div style="display:flex; justify-content:center; align-items:center; gap:12px; flex-wrap:wrap;">
-    <h3 style="margin:0; font-size:20px;">Languages</h3>
-    <div>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java" width="40" height="40" style="border-radius:50%; margin:6px;" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" width="40" height="40" style="border-radius:50%; margin:6px;" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL / MySQL" title="SQL / MySQL" width="40" height="40" style="border-radius:50%; margin:6px;" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="40" height="40" style="border-radius:50%; margin:6px;" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="40" height="40" style="border-radius:50%; margin:6px;" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40" style="border-radius:50%; margin:6px;" />
-    </div>
-  </div>
+```text
+╔══════════════════════════════════════════════════════════════════╗
+║  ENGINEER     →  Muhammad Tahir                                 ║
+║  PROCESS      →  Backend Engineer · Programmer                  ║
+║  RUNTIME      →  Mehran University of Engineering & Technology  ║
+║  CORE         →  Java · Spring Boot · Secure APIs               ║
+║  PHILOSOPHY   →  Layered architecture. Data integrity first.    ║
+║  STATUS       →  [ ████████████████████ ] BUILDING...          ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
-  <!-- Frameworks & Libraries -->
-  <div style="display:flex; justify-content:center; align-items:center; gap:12px; flex-wrap:wrap;">
-    <h3 style="margin:0; font-size:20px;">Frameworks & Libraries</h3>
-    <div>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" title="Spring / Spring Boot" width="40" height="40" style="border-radius:50%; margin:6px;" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" alt="Tomcat" title="Servlets / JSP" width="40" height="40" style="border-radius:50%; margin:6px;" />
-      <img src="./assets/icons/lombok.svg" alt="Lombok" title="Lombok" width="40" height="40" style="border-radius:50%; margin:6px;" />
-      <img src="./assets/icons/mapping.svg" alt="ModelMapper/Mapping" title="ModelMapper / Mapping" width="40" height="40" style="border-radius:50%; margin:6px;" />
-    </div>
-  </div>
+I don't just build features — I architect systems.
 
-  <!-- Databases & Data -->
-  <div style="display:flex; justify-content:center; align-items:center; gap:12px; flex-wrap:wrap;">
-    <h3 style="margin:0; font-size:20px;">Databases & Data</h3>
-    <div>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="40" height="40" style="border-radius:50%; margin:6px;" />
-      <img src="./assets/icons/h2.svg" alt="H2 Embedded DB" title="H2 Embedded Database" width="40" height="40" style="border-radius:50%; margin:6px; background:#fff; padding:4px;" />
-      <img src="./assets/icons/jdbc.svg" alt="JDBC" title="JDBC (PreparedStatements, Transaction Mgmt)" width="40" height="40" style="border-radius:50%; margin:6px;" />
-    </div>
-  </div>
+Backend engineering to me means obsessing over security, clean separation of concerns, scalability, and reliability. Every API I design and every service I build is written with long-term maintainability in mind.
 
-  <!-- Tools & Platforms -->
-  <div style="display:flex; justify-content:center; align-items:center; gap:12px; flex-wrap:wrap;">
-    <h3 style="margin:0; font-size:20px;">Tools & Platforms</h3>
-    <div>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" width="40" height="40" style="border-radius:50%; margin:6px;" />
-      <img src="./assets/icons/github.svg" alt="GitHub" title="GitHub" width="40" height="40" style="border-radius:50%; margin:6px; background:#fff; padding:6px; border:1px solid #181717;" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" alt="Maven" title="Maven" width="40" height="40" style="border-radius:50%; margin:6px;" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="40" height="40" style="border-radius:50%; margin:6px;" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" title="Postman" width="40" height="40" style="border-radius:50%; margin:6px;" />
-      <img src="./assets/icons/swagger.svg" alt="Swagger" title="Swagger / OpenAPI" width="40" height="40" style="border-radius:50%; margin:6px; background:#fff; padding:6px;" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" title="IntelliJ IDEA" width="40" height="40" style="border-radius:50%; margin:6px;" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" alt="Eclipse" title="Eclipse" width="40" height="40" style="border-radius:50%; margin:6px;" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code" width="40" height="40" style="border-radius:50%; margin:6px;" />
-    </div>
-  </div>
+I focus on creating backend systems that are clean, efficient, and production-oriented — systems that developers can trust and teams can confidently scale.
 
-  <!-- Concepts -->
-  <div style="display:flex; justify-content:center; align-items:center; gap:12px; flex-wrap:wrap;">
-    <h3 style="margin:0; font-size:20px;">Concepts</h3>
-    <div>
-      <img src="./assets/icons/oop.svg" alt="OOP" title="OOP" width="40" height="40" style="border-radius:50%; margin:6px;" />
-      <img src="./assets/icons/mvc.svg" alt="MVC" title="MVC Architecture" width="40" height="40" style="border-radius:50%; margin:6px;" />
-      <img src="./assets/icons/dao.svg" alt="DAO/DTO" title="DAO/DTO Patterns" width="40" height="40" style="border-radius:50%; margin:6px;" />
-      <img src="./assets/icons/api.svg" alt="REST API" title="REST API design" width="40" height="40" style="border-radius:50%; margin:6px;" />
-      <img src="./assets/icons/test.svg" alt="Testing" title="JUnit / Testing" width="40" height="40" style="border-radius:50%; margin:6px;" />
-      <img src="./assets/icons/agile.svg" alt="Agile" title="Agile" width="40" height="40" style="border-radius:50%; margin:6px;" />
-    </div>
-  </div>
+---
+
+# `$ ls ./skills --all`
+
+## 〔 Languages 〕
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="52" height="52" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" width="52" height="52" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="SQL / MySQL" width="52" height="52" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="52" height="52" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="52" height="52" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="52" height="52" />
+
+<br/><br/>
+
+**`Java`** &nbsp;·&nbsp;
+**`C++`** &nbsp;·&nbsp;
+**`SQL`** &nbsp;·&nbsp;
+**`JavaScript`** &nbsp;·&nbsp;
+**`HTML5`** &nbsp;·&nbsp;
+**`CSS3`**
+
 </div>
 
+---
 
+## 〔 Frameworks & Libraries 〕
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring Boot" width="52" height="52" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring Security" width="52" height="52" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" title="Tomcat / Servlets" width="52" height="52" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tahir-Dars/Tahir-Dars/master/assets/icons/lombok.svg" title="Lombok" width="52" height="52" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tahir-Dars/Tahir-Dars/master/assets/icons/mapping.svg" title="MapStruct / ModelMapper" width="52" height="52" />
+
+<br/><br/>
+
+**`Spring Boot`** &nbsp;·&nbsp;
+**`Spring Security`** &nbsp;·&nbsp;
+**`Spring Data JPA`** &nbsp;·&nbsp;
+**`Servlets / JSP`** &nbsp;·&nbsp;
+**`Lombok`** &nbsp;·&nbsp;
+**`MapStruct`**
+
+</div>
+
+---
+
+## 〔 Databases & Data 〕
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="52" height="52" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="52" height="52" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tahir-Dars/Tahir-Dars/master/assets/icons/h2.svg" title="H2 Database" width="52" height="52" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tahir-Dars/Tahir-Dars/master/assets/icons/jdbc.svg" title="JDBC" width="52" height="52" />
+
+<br/><br/>
+
+**`MySQL`** &nbsp;·&nbsp;
+**`PostgreSQL`** &nbsp;·&nbsp;
+**`H2`** &nbsp;·&nbsp;
+**`JDBC`**
+
+</div>
+
+---
+
+## 〔 Tools & Platforms 〕
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="52" height="52" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="52" height="52" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" title="Maven" width="52" height="52" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" width="52" height="52" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" title="Postman" width="52" height="52" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tahir-Dars/Tahir-Dars/master/assets/icons/swagger.svg" title="Swagger / OpenAPI" width="52" height="52" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" title="IntelliJ IDEA" width="52" height="52" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" width="52" height="52" />
+
+<br/><br/>
+
+**`Git`** &nbsp;·&nbsp;
+**`GitHub`** &nbsp;·&nbsp;
+**`Maven`** &nbsp;·&nbsp;
+**`Docker`** &nbsp;·&nbsp;
+**`Postman`** &nbsp;·&nbsp;
+**`Swagger`** &nbsp;·&nbsp;
+**`IntelliJ`** &nbsp;·&nbsp;
+**`VS Code`**
+
+</div>
+
+---
+
+## 〔 Core Concepts 〕
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Tahir-Dars/Tahir-Dars/master/assets/icons/oop.svg" title="OOP" width="52" height="52" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tahir-Dars/Tahir-Dars/master/assets/icons/mvc.svg" title="MVC Architecture" width="52" height="52" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tahir-Dars/Tahir-Dars/master/assets/icons/dao.svg" title="DAO / DTO Patterns" width="52" height="52" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tahir-Dars/Tahir-Dars/master/assets/icons/api.svg" title="REST API Design" width="52" height="52" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tahir-Dars/Tahir-Dars/master/assets/icons/test.svg" title="JUnit / Testing" width="52" height="52" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tahir-Dars/Tahir-Dars/master/assets/icons/agile.svg" title="Agile" width="52" height="52" />
+
+<br/><br/>
+
+**`OOP`** &nbsp;·&nbsp;
+**`MVC`** &nbsp;·&nbsp;
+**`DAO/DTO`** &nbsp;·&nbsp;
+**`REST API`** &nbsp;·&nbsp;
+**`JUnit`** &nbsp;·&nbsp;
+**`Agile`**
+
+</div>
+
+---
+
+# `$ git log --oneline --graph`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Tahir-Dars&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=58a6ff&icon_color=58a6ff" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tahir-Dars&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&title_color=58a6ff" />
+
+<br/><br/>
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tahir-Dars&theme=tokyonight&hide_border=true&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Tahir-Dars.Tahir-Dars&color=58a6ff" />
+
+<br/><br/>
+
+> *"A system is only as strong as the engineer who refuses to cut corners."*
+
+### — Muhammad Tahir
 
 </div>
