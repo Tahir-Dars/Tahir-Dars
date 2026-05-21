@@ -9,7 +9,7 @@
 ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═════╝        ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝
 ```
 
-### ⟨ Muhammad Tahir &nbsp;‖&nbsp; Backend Engineer &nbsp;‖&nbsp; Programmer &nbsp;‖&nbsp; Spring Boot Developer ⟩
+### ⟨&nbsp; Backend Engineer &nbsp;‖&nbsp; Programmer &nbsp;‖&nbsp; Spring Boot Developer ⟩
 
 <br/>
 
