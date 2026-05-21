@@ -88,16 +88,3 @@ Below are quick visual badges for my core languages, frameworks, databases, tool
   </div>
 </div>
 
-
-
----
-
-## GitHub Metrics
-
-<img src="./github-metrics.svg" alt="GitHub base metrics" />
-
-<img src="./github-metrics-languages.svg" alt="GitHub languages metrics" />
-
-<img src="./github-metrics-habits.svg" alt="GitHub habits metrics" />
-
-
