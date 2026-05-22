@@ -49,9 +49,11 @@
 
 I don't just build features — I architect systems.
 
-Backend engineering to me means obsessing over security, clean separation of concerns, scalability, and reliability. Every API I design and every service I build is written with long-term maintainability in mind.
+Backend engineering to me means obsessing over security, clean separation of concerns, scalability, and reliability.
+Every API I design and every service I build is written with long-term maintainability in mind.
 
-I focus on creating backend systems that are clean, efficient, and production-oriented — systems that developers can trust and teams can confidently scale.
+I focus on creating backend systems that are clean, efficient, and production-oriented — systems that developers can
+trust and teams can confidently scale.
 
 ---
 
@@ -61,11 +63,16 @@ I focus on creating backend systems that are clean, efficient, and production-or
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="52" height="52" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" width="52" height="52" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="SQL / MySQL" width="52" height="52" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="52" height="52" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="52" height="52" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="52" height="52" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" width="52" height="52" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="SQL / MySQL" width="52" height="52" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="52" height="52" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="52" height="52" />
+&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="52" height="52" />
 
 <br/><br/>
@@ -85,10 +92,14 @@ I focus on creating backend systems that are clean, efficient, and production-or
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring Boot" width="52" height="52" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring Security" width="52" height="52" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" title="Tomcat / Servlets" width="52" height="52" />&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tahir-Dars/Tahir-Dars/master/assets/icons/lombok.svg" title="Lombok" width="52" height="52" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring Boot" width="52" height="52" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring Security" width="52" height="52" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" title="Tomcat / Servlets" width="52" height="52" />
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tahir-Dars/Tahir-Dars/master/assets/icons/lombok.svg" title="Lombok" width="52" height="52" />
+&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/Tahir-Dars/Tahir-Dars/master/assets/icons/mapping.svg" title="MapStruct / ModelMapper" width="52" height="52" />
 
 <br/><br/>
@@ -108,9 +119,12 @@ I focus on creating backend systems that are clean, efficient, and production-or
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="52" height="52" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="52" height="52" />&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tahir-Dars/Tahir-Dars/master/assets/icons/h2.svg" title="H2 Database" width="52" height="52" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="52" height="52" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="52" height="52" />
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tahir-Dars/Tahir-Dars/master/assets/icons/h2.svg" title="H2 Database" width="52" height="52" />
+&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/Tahir-Dars/Tahir-Dars/master/assets/icons/jdbc.svg" title="JDBC" width="52" height="52" />
 
 <br/><br/>
@@ -128,13 +142,20 @@ I focus on creating backend systems that are clean, efficient, and production-or
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="52" height="52" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="52" height="52" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" title="Maven" width="52" height="52" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" width="52" height="52" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" title="Postman" width="52" height="52" />&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tahir-Dars/Tahir-Dars/master/assets/icons/swagger.svg" title="Swagger / OpenAPI" width="52" height="52" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" title="IntelliJ IDEA" width="52" height="52" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="52" height="52" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="52" height="52" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" title="Maven" width="52" height="52" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" width="52" height="52" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" title="Postman" width="52" height="52" />
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tahir-Dars/Tahir-Dars/master/assets/icons/swagger.svg" title="Swagger / OpenAPI" width="52" height="52" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" title="IntelliJ IDEA" width="52" height="52" />
+&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" width="52" height="52" />
 
 <br/><br/>
@@ -156,11 +177,16 @@ I focus on creating backend systems that are clean, efficient, and production-or
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Tahir-Dars/Tahir-Dars/master/assets/icons/oop.svg" title="OOP" width="52" height="52" />&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tahir-Dars/Tahir-Dars/master/assets/icons/mvc.svg" title="MVC Architecture" width="52" height="52" />&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tahir-Dars/Tahir-Dars/master/assets/icons/dao.svg" title="DAO / DTO Patterns" width="52" height="52" />&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tahir-Dars/Tahir-Dars/master/assets/icons/api.svg" title="REST API Design" width="52" height="52" />&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tahir-Dars/Tahir-Dars/master/assets/icons/test.svg" title="JUnit / Testing" width="52" height="52" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tahir-Dars/Tahir-Dars/master/assets/icons/oop.svg" title="OOP" width="52" height="52" />
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tahir-Dars/Tahir-Dars/master/assets/icons/mvc.svg" title="MVC Architecture" width="52" height="52" />
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tahir-Dars/Tahir-Dars/master/assets/icons/dao.svg" title="DAO / DTO Patterns" width="52" height="52" />
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tahir-Dars/Tahir-Dars/master/assets/icons/api.svg" title="REST API Design" width="52" height="52" />
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tahir-Dars/Tahir-Dars/master/assets/icons/test.svg" title="JUnit / Testing" width="52" height="52" />
+&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/Tahir-Dars/Tahir-Dars/master/assets/icons/agile.svg" title="Agile" width="52" height="52" />
 
 <br/><br/>
@@ -198,8 +224,8 @@ I focus on creating backend systems that are clean, efficient, and production-or
 
 <br/><br/>
 
-> *"A system is only as strong as the engineer who refuses to cut corners."*
+> *"Dont leave Broken windows unrepaired"*
 
-### — Muhammad Tahir
+### — Pragmatic Programmer
 
 </div>
