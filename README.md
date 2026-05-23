@@ -27,12 +27,6 @@
   <img src="https://skillicons.dev/icons?i=gmail" width="58" height="58" alt="Gmail"/>
 </a>
 
-<br/><br/>
-
-<div align="center">
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="muhammadtahir32" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/muhammadtahir32?trk=profile-badge">Muhammad Tahir</a></div>
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-</div>
 
 <br/><br/>
 </div>
